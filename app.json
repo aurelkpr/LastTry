@@ -1,0 +1,16 @@
+{
+  "name": "LastTry",
+  "displayName": "LastTry",
+  "expo": {
+    "name": "LastTry",
+    "slug": "LastTry",
+    "updates": {
+      "fallbackToCacheTimeout": 30000,
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "android": {
+      "package": "com.lasttry"
+    }
+  }
+}

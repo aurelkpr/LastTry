@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416742768976",
+    "firebase_url": "https://psyched-hook-717.firebaseio.com",
+    "project_id": "psyched-hook-717",
+    "storage_bucket": "psyched-hook-717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416742768976:android:0f6968e355fffe5378ac55",
+        "android_client_info": {
+          "package_name": "com.lasttry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416742768976-ugvkas71cbv7ienud9e99cefcgko06ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6PKhx8Jqwk_8a503Rh_cNOk2st6qOks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416742768976-ugvkas71cbv7ienud9e99cefcgko06ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
