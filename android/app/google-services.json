@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "416742768976",
-    "firebase_url": "https://psyched-hook-717.firebaseio.com",
-    "project_id": "psyched-hook-717",
-    "storage_bucket": "psyched-hook-717.appspot.com"
+    "project_number": "360442866391",
+    "project_id": "cross-platform-b9fdc",
+    "storage_bucket": "cross-platform-b9fdc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:416742768976:android:0f6968e355fffe5378ac55",
+        "mobilesdk_app_id": "1:360442866391:android:7430e3ed42d4cc5d369e92",
         "android_client_info": {
           "package_name": "com.lasttry"
         }
       },
       "oauth_client": [
         {
-          "client_id": "416742768976-ugvkas71cbv7ienud9e99cefcgko06ks.apps.googleusercontent.com",
+          "client_id": "360442866391-jlr9j37qm4cavbq7kq3rv3mabjug8dcc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBM6PKhx8Jqwk_8a503Rh_cNOk2st6qOks"
+          "current_key": "AIzaSyCl1kFRrPz9i3ogGPp7hG4D3J-PVT637Qg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "416742768976-ugvkas71cbv7ienud9e99cefcgko06ks.apps.googleusercontent.com",
+              "client_id": "360442866391-jlr9j37qm4cavbq7kq3rv3mabjug8dcc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
